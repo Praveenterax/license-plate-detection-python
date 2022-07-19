@@ -72,6 +72,17 @@
   </ol>
 </details>
 
+<!-- OUTPUT OF THE PROJECT -->
+## Output Images
+
+
+  <img src="images/screenshot-1.png"  width="400" height="200" />
+  <img src="images/screenshot-2.png"  width="400" height="200" />
+  <img src="images/screenshot-3.png"  width="400" height="200" />
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Built With
 
 - [Python](https://docs.python.org/3/)
